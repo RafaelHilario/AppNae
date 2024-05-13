@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1.6rem;
+    font-family: "Inknut Antiqua", serif;
+}
+
+html{
+    font-size: 62.5%;
+    --title-color: #FFFFFF;
+    --text-color: #000000;
+
+}
+
+body{
+    background-color: #075666;
+}
+
+header .button a{
+    font-weight: 400;
+    text-decoration: none;
+    color: var(--title-color);
+    display: flex;
+    align-items: center;
+}

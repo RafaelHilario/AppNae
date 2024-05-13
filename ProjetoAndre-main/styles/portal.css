@@ -1,0 +1,43 @@
+header .perfil{
+    display: grid;
+    gap: 2.1rem;
+    margin: auto;
+    text-align: center;
+}
+
+.perfil p{
+    color: var(--title-color);
+}
+
+main{
+    margin-top: 2.3rem;
+    display: grid;
+    gap: 3rem;
+}
+
+main button{
+    border-radius: 1rem;
+    width: calc(100% - 3.2rem);
+    margin: 0 16px;
+    background-color: #EDECEC;
+}
+
+footer{
+    position: absolute;
+    display: grid;
+    text-align: center;
+    gap: 5.6rem;
+    bottom: 3.5rem;
+    width: calc(100% - 11.6rem);
+    left: 5.8rem;
+}
+
+footer button{
+    border-radius: 1rem;
+}
+
+footer a{
+    display: grid;
+    margin: auto;
+    color: var(--title-color);
+}

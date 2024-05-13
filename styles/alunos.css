@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: #FFFDFD;
+    font-weight: 400;
+}
+
+.card{
+    background-color: #EDECEC;
+    margin-left: 3.2rem;
+    min-width: 27rem;
+    margin-right: 3rem;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.2);
+    display: flex;
+}
+
+.imagens{
+    display: grid;
+    margin-left: 1.5rem;
+}
+
+#perfil{
+    width: 12rem;
+    height: 14rem;
+    border-radius: 10px;
+    margin-top: 1.5rem;
+}
+
+.informacoes{
+    margin-left: 1rem;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
